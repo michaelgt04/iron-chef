@@ -1,0 +1,12 @@
+.ingredient-tile {
+  display: inline-block;
+  width: 400px;
+  height: 300px;
+
+  img {
+    width: 400px;
+    height: 300px;
+    object-fit: cover;
+    padding: 0 30px;
+  }
+}
