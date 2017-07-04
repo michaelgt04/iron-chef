@@ -42,7 +42,7 @@ rake db:seed
 
 	Next create a fetch call that will use the array of ingredient ids in the state to get a 
 	random ingredient back from the API. This will need another fetch call. If you forget how
-	randomness is simulated in JS, take a look [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random)
+	randomness is simulated in JS, take a look [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random).
 	This method should also append this ingredient to the state. Be careful not to mutate the 
 	state!
 
